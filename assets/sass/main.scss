@@ -254,7 +254,7 @@ textarea,
 select {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
-  color: #777777;
+  color: #363636;
   font-size: 20pt;
   line-height: 1.75em;
 
@@ -429,19 +429,19 @@ form {
   }
 
   ::-webkit-input-placeholder {
-    color: #999;
+    color: #363636;
   }
 
   :-moz-placeholder {
-    color: #999;
+    color: #363636;
   }
 
   ::-moz-placeholder {
-    color: #999;
+    color: #363636;
   }
 
   :-ms-input-placeholder {
-    color: #999;
+    color: #363636;
   }
 }
 
@@ -462,7 +462,7 @@ header {
 
   > p {
     margin: 0.5em 0 0 0;
-    color: #aaa;
+    color: #363636;
   }
 
   @include breakpoint('<=small') {
